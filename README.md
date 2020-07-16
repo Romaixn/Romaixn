@@ -27,12 +27,12 @@
 
 <p align="center">
 
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/symfony.svg" alt="Symfony" style="vertical-align:top; margin:4px; width: 2rem">
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/vue.svg" alt="Vuejs" style="vertical-align:top; margin:4px; width: 2rem">
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:4px; width: 2rem">
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/sass.svg" alt="Sass" style="vertical-align:top; margin:4px; width: 2rem">
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/django.svg" alt="Django" style="vertical-align:top; margin:4px; width: 2rem">
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/wordpress.svg" alt="WordPress" style="vertical-align:top; margin:4px; width: 2rem">
+  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/symfony.svg" alt="Symfony" style="vertical-align:top; margin:4px; width: .5rem">
+  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/vue.svg" alt="Vuejs" style="vertical-align:top; margin:4px; width: .5rem">
+  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:4px; width: .5rem">
+  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/sass.svg" alt="Sass" style="vertical-align:top; margin:4px; width: .5rem">
+  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/django.svg" alt="Django" style="vertical-align:top; margin:4px; width: .5rem">
+  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/wordpress.svg" alt="WordPress" style="vertical-align:top; margin:4px; width: .5rem">
 
 ---
 
