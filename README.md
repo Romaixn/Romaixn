@@ -2,56 +2,32 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    Je suis Romain Herault <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/hi.gif" width="29px">
+    I'm Romain <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/hi.gif" width="29px">
     <br><br>
-    :rocket: Développeur Web Full Stack ! :rocket:
+    :rocket: Full stack web developer :rocket:
   </samp>
 </p>
 
-<br>
-
-<details>
-  <summary> <b>Chose à savoir sur moi !</b> <i>(cliquez pour voir plus)</i> </summary>
-  
-  <br>
-  
 ---
-> Retrouvez mon portfolio [ici](https://rherault.fr)
 
-### - A propos...
-- J'ai 21ans et je vis en France.
-- J'adore apprendre de nouvelles choses.
+Passionate about web development, you can find my portfolio [here](https://rherault.fr).
 
----
-### - Langages et outils...
+Skills: Symfony, Vue js, Sass, Django, WordPress
 
-<p align="center">
+🔭 I’m currently working on full stack developer at Krea'Lab 
 
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/symfony.svg" alt="Symfony" style="vertical-align:top; margin:4px; width: 30px">
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/vue.svg" alt="Vuejs" style="vertical-align:top; margin:4px; width: 30px">
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/javascript.svg" alt="JavaScript" style="vertical-align:top; margin:4px; width: 30px">
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/sass.svg" alt="Sass" style="vertical-align:top; margin:4px; width: 30px">
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/django.svg" alt="Django" style="vertical-align:top; margin:4px; width: 30px">
-  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/wordpress.svg" alt="WordPress" style="vertical-align:top; margin:4px; width: 30px">
+🌱 I’m currently learning Flutter and Typescript 
+
+👯 I’m looking to collaborate on open source 
+
+📫 How to reach me: [email](mailto:romain@rherault.fr) or [website](https://rherault.fr/contact)
+
+😄 Pronouns: He/Him
 
 ---
 
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Romaixn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/romain-herault/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/romaixn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/romaixn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](rherault.fr)  
 
-### - Actuellement en train...
+![Github stats](https://github-readme-stats.vercel.app/api?username=Romaixn&show_icons=true)
 
-- D'améliorer mes compétences en Vuejs.
-- D'apprendre Flutter.
-
----
-
-</details>
-
-<p align="center"> 
-  <i> Contactez-moi ! :incoming_envelope: </i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/romain-herault"><img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/romaixn"><img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
-</p>
+![Profile views](https://gpvc.arturio.dev/Romaixn)  
