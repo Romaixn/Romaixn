@@ -14,7 +14,7 @@ Passionate about web development, you can find my portfolio [here](https://rhera
 
 Skills: Symfony, Vue js, Sass, Django, WordPress
 
-🔭 I’m currently working on full stack developer at [Ewill](https://www.agence-ewill.com/)
+🔭 I’m currently working on full stack developer at Krea'Lab 
 
 🌱 I’m currently learning Flutter and Typescript 
 
@@ -33,4 +33,4 @@ Skills: Symfony, Vue js, Sass, Django, WordPress
 ![Profile views](https://gpvc.arturio.dev/Romaixn)  
 - ✨ Read my latest blog post: **[Migration EasyAdmin 2 vers 3](https://rherault.fr/blog/migration-easyadmin-2-vers-3)**
 
-Last updated by magic on 23 Sep 2020.
+Last updated by magic on 24 Sep 2020.
