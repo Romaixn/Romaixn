@@ -14,7 +14,7 @@ Passionate about web development, you can find my portfolio [here](https://rhera
 
 Skills: Symfony, Vue js, Sass, Django, WordPress
 
-🔭 I’m currently working on full stack developer at Krea'Lab 
+🔭 I’m currently working on full stack developer at [Ewill](https://www.agence-ewill.com/)
 
 🌱 I’m currently learning Flutter and Typescript 
 
