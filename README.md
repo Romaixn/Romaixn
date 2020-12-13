@@ -33,4 +33,4 @@ Skills: Symfony, Vue js, Sass, Django, WordPress
 ![Profile views](https://gpvc.arturio.dev/Romaixn)  
 - ✨ Read my latest blog post: **[Migration EasyAdmin 2 vers 3](https://rherault.fr/blog/migration-easyadmin-2-vers-3)**
 
-Last updated by magic on 12 Dec 2020.
+Last updated by magic on 13 Dec 2020.
