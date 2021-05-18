@@ -30,7 +30,7 @@ func getRSS(rssFeed string) ([]string, error) {
 
 func makeReadme(filename string) error {
 	fp := gofeed.NewParser()
-	feed, err := fp.ParseURL("https://blog.rherault.fr/post-sitemap.xml")
+	feed, err := fp.ParseURL("https://blog.rherault.fr/sitemap.xml")
 	if err != nil {
 		log.Fatalf("error getting feed: %v", err)
 	}
