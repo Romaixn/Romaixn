@@ -16,7 +16,7 @@ Skills: Symfony, Vue js, Sass, Django, WordPress
 
 🔭 I’m currently working on full stack developer at [Ewill](https://www.agence-ewill.com/)
 
-🌱 I’m currently learning Flutter and Typescript 
+🌱 I’m currently learning Typescript and Symfony things
 
 👯 I’m looking to collaborate on open source 
 
