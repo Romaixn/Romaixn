@@ -35,7 +35,7 @@ func makeReadme(filename string) error {
 		log.Fatalf("error getting feed: %v", err)
 	}
 	// Get the freshest item
-	rssItem := feed.Items[0]
+	rssItem := feed.Items[1]
 
 	// Unwrap Markdown content
 	content, err := ioutil.ReadFile("static.md")
