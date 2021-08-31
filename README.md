@@ -12,11 +12,11 @@
 
 Passionate about web development, you can find my portfolio [here](https://rherault.fr).
 
-Skills: Symfony, Vue js, Sass, Django, WordPress
+Skills: Symfony, Vuejs, Sass, WordPress, ThreeJS
 
 🔭 I’m currently working on full stack developer at [Ewill](https://www.agence-ewill.com/)
 
-🌱 I’m currently learning Flutter and Typescript 
+🌱 I’m currently learning 3D and ThreeJS
 
 👯 I’m looking to collaborate on open source 
 
