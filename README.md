@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Romain <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/hi.gif" width="29px">
+    I'm Romain
     <br><br>
     :rocket: Full stack web developer :rocket:
   </samp>
