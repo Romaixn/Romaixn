@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <img src="https://github.com/Romaixn/Romaixn/blob/master/assets/img/Logo%20avec%20typo.png" width="15%">
   <br><br>
   <samp>
     I'm Romain
@@ -30,7 +30,4 @@ Skills: Symfony, Vuejs, Sass, WordPress, ThreeJS
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Romaixn&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/Romaixn)  
-- ✨ Read my latest blog post: **[Migration EasyAdmin 2 vers 3](https://rherault.fr/blog/migration-easyadmin-2-vers-3)**
-
-Last updated by magic on 28 Dec 2020.
+![Profile views](https://gpvc.arturio.dev/Romaixn)
