@@ -31,3 +31,5 @@ Skills: Symfony, Vuejs, Sass, WordPress, ThreeJS
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Romaixn&show_icons=true)
 
 ![Profile views](https://gpvc.arturio.dev/Romaixn)
+
+[![@rherault's Holopin board](https://holopin.io/api/user/board?user=rherault)](https://holopin.io/@rherault)
