@@ -16,8 +16,6 @@ Passionate about web development, you can find my portfolio [here](https://rhera
 
 Skills: Symfony, Vuejs, Sass, WordPress, ThreeJS
 
-🔭 I’m currently working on full stack developer at [Ewill](https://www.agence-ewill.com/)
-
 🌱 I’m currently learning 3D and ThreeJS
 
 👯 I’m looking to collaborate on open source 
