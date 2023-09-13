@@ -13,6 +13,13 @@ Developer @ Les-Tilleuls.coop
 *   ✉️  You can contact me at [romain@rherault.dev](mailto:romain@rherault.dev)
 *   🧠  I'm learning 3D, Three.js and Golang                 
 
+### My latest 3D creations
+* [Mini Basket](https://mini-basket.rherault.dev)
+* [Marble Race](https://marble-race-3d.vercel.app)
+* [Magic Portal](https://magic-portal-3d.vercel.app)
+* [Configurator](https://configurator.rherault.dev)
+* [Animated Galaxy](https://galaxy-animated-3d.vercel.app)
+
 ### Socials
                   
 <p align="left"> <a href="https://www.dev.to/romaixn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/Romaixn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rherault" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Romaixn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
