@@ -15,10 +15,11 @@ Developer @ Les-Tilleuls.coop
 *   🧠  I'm learning 3D, Three.js and Golang                 
 
 ### My latest 3D creations
+* [Zombie Runner](https://zombie-runner.rherault.dev)
 * [Mini Basket](https://mini-basket.rherault.dev)
+* [Configurator](https://configurator.rherault.dev)
 * [Marble Race](https://marble-race-3d.vercel.app)
 * [Magic Portal](https://magic-portal-3d.vercel.app)
-* [Configurator](https://configurator.rherault.dev)
 * [Animated Galaxy](https://galaxy-animated-3d.vercel.app)
 
 ### Socials
