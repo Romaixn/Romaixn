@@ -15,6 +15,7 @@ Developer @ Les-Tilleuls.coop
 *   🧠  I'm learning 3D, Three.js and Golang                 
 
 ### My latest 3D creations
+* [Earth](https://earth.rherault.dev)
 * [Poke Rain](https://poke-rain.rherault.dev) (November challenge by Bruno Simon, theme "Pokeball")
 * [Zombie Runner](https://zombie-runner.rherault.dev) (October challenge by Bruno Simon, "Halloween" theme, comes in second place)
 * [Mini Basket](https://mini-basket.rherault.dev)
