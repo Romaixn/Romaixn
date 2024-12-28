@@ -16,8 +16,9 @@ Developer @ Les-Tilleuls.coop
 
 ### My latest 3D creations
 * [Starship](https://starship.rherault.dev) (Participating to a [YouTube video from Benjamin Code](https://youtu.be/fxYmKtQgu7E?si=jTazgSrDDqwKqw5W))
+* [Cosmic Bang](https://cosmic-bang.vercel.app) (March challenge by Bruno Simon, "Solar System" theme)
 * [Earth](https://earth.rherault.dev)
-* [Poke Rain](https://poke-rain.rherault.dev) (November challenge by Bruno Simon, theme "Pokeball")
+* [Poke Rain](https://poke-rain.rherault.dev) (November challenge by Bruno Simon, "Pokeball" theme)
 * [Zombie Runner](https://zombie-runner.rherault.dev) (October challenge by Bruno Simon, "Halloween" theme, comes in second place)
 * [Mini Basket](https://mini-basket.rherault.dev)
 * [Configurator](https://configurator.rherault.dev)
